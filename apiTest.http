@@ -1,0 +1,17 @@
+http://localhost:3000/api/create
+
+
+
+POST http://localhost:3000/api/create HTTP/1.1
+
+
+PUT http://localhost:3000/api/create HTTP/1.1
+// PUT = Add + Update
+
+
+PATCH http://localhost:3000/api/create HTTP/1.1
+// Update
+
+
+DELETE http://localhost:3000/api/create HTTP/1.1
+// Delete
